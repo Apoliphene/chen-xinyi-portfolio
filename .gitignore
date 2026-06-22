@@ -1,0 +1,5 @@
+.DS_Store
+outputs/
+work/
+.wrangler/
+node_modules/
