@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://chen-xinyi-portfolio.pages.dev/sitemap.xml
